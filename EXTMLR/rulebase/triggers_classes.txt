@@ -1,0 +1,217 @@
+no increase	PSEU_
+no suspicious change	PSEU_
+no significant change	PSEU_
+no change	PSEU_
+no interval change	PSEU_
+no definite change	PSEU_
+no significant interval change	PSEU_
+not extend	PSEU_
+not cause	PSEU_
+not drain	PSEU_
+not certain if	PSEU_
+not certain whether	PSEU_
+gram negative	PSEU_
+without difficulty	PSEU_
+not necessarily	PSEU_
+not only	PSEU_
+absence of	PREN_NEG
+avoid	PREN_INFO
+cannot	PREN_NEG
+cannot see	PREN_NEG
+chances	PREN_HYPOTHETICAL
+chance	PREN_HYPOTHETICAL
+risk	PREN_HYPOTHETICAL
+risks	PREN_HYPOTHETICAL
+possibility of	PREN_HYPOTHETICAL
+possibilities of	PREN_HYPOTHETICAL
+checked for	PREN_NEG
+declined	PREN_NEG
+declines	PREN_NEG
+denied	PREN_NEG
+denies	PREN_NEG
+denying	PREN_NEG
+evaluate for	PREN_NEG
+fails to reveal	PREN_NEG
+free of	PREN_NEG
+fear that	PREN_HYPOTHETICAL
+fearing that	PREN_HYPOTHETICAL
+worried that	PREN_HYPOTHETICAL
+worried	about PREN_HYPOTHETICAL
+worrying that	PREN_HYPOTHETICAL
+worrying about	PREN_HYPOTHETICAL
+i think	PREN_HYPOTHETICAL
+negative for	PREN_NEG
+neither	PREN_NEG
+nor	PREN_NEG
+never developed	PREN_NEG	  
+never had	PREN_NEG
+no	PREN_NEG
+no abnormal	PREN_NEG
+no cause of	PREN_NEG
+no complaints of	PREN_NEG
+no evidence	PREN_NEG
+no new evidence	PREN_NEG
+no other evidence	PREN_NEG
+no evidence to suggest	PREN_NEG
+no findings of	PREN_NEG
+no findings to indicate	PREN_NEG
+no mammographic evidence of	PREN_NEG
+no new	PREN_NEG
+no radiographic evidence of	PREN_NEG
+no sign of	PREN_NEG
+no significant	PREN_NEG
+no signs of	PREN_NEG
+no suggestion of	PREN_NEG
+no suspicious	PREN_NEG
+not	PREN_NEG
+not appear	PREN_NEG
+not appreciate	PREN_NEG
+not associated with	PREN_NEG
+not complain of	PREN_NEG
+not demonstrate	PREN_NEG
+not exhibit	PREN_NEG
+not feel	PREN_NEG
+not had	PREN_NEG
+not have	PREN_NEG
+not know of	PREN_NEG
+not known to have	PREN_NEG
+not reveal	PREN_NEG
+not see	PREN_NEG
+not to be	PREN_NEG
+parents	PREN_HEREDITY
+patient was not	PREN_NEG
+protect	PREN_NEG
+rather than	PREN_NEG
+resolved	PREN_NEG
+test for	PREN_NEG
+to exclude	PREN_NEG
+unremarkable for	PREN_NEG
+used to	PREN_HISTORICAL
+whether it is	PREN_NEG
+with no	PREN_NEG
+without	PREN_NEG
+without any evidence of	PREN_NEG
+without evidence	PREN_NEG
+without indication of	PREN_NEG
+without sign of	PREN_NEG
+rules out	PREN_NEG
+rules him out	PREN_NEG
+rules her out	PREN_NEG
+rules the patient out	PREN_NEG
+rules out for	PREN_NEG
+rules him out for	PREN_NEG
+rules her out for	PREN_NEG
+rules the patient out for	PREN_NEG
+ruled out	PREN_NEG
+ruled him out	PREN_NEG
+ruled her out	PREN_NEG
+ruled the patient out	PREN_NEG
+ruled out for	PREN_NEG
+ruled him out for	PREN_NEG
+ruled her out for	PREN_NEG
+ruled the patient out for	PREN_NEG
+ruled out against	PREN_NEG
+ruled him out against	PREN_NEG
+ruled her out against	PREN_NEG
+ruled the patient out against	PREN_NEG
+did rule out	PREN_NEG
+did rule out for	PREN_NEG
+did rule out against	PREN_NEG
+did rule him out	PREN_NEG
+did rule her out	PREN_NEG
+did rule the patient out	PREN_NEG
+did rule him out for	PREN_NEG
+did rule her out for	PREN_NEG
+did rule him out against	PREN_NEG
+did rule her out against	PREN_NEG
+did rule the patient out for	PREN_NEG
+did rule the patient out against	PREN_NEG
+can rule out	PREN_NEG
+can rule out for	PREN_NEG
+can rule out against	PREN_NEG
+can rule him out	PREN_NEG
+can rule her out	PREN_NEG
+can rule the patient out	PREN_NEG
+can rule him out for	PREN_NEG
+can rule her out for	PREN_NEG
+can rule the patient out for	PREN_NEG
+can rule him out against	PREN_NEG
+can rule her out against	PREN_NEG
+can rule the patient out against	PREN_NEG
+stopped	PREN_NEG
+unlikely	POST_NEG
+free	POST_NEG
+was ruled out	POST_NEG
+is ruled out	POST_NEG
+are ruled out	POST_NEG
+have been ruled out	POST_NEG
+has been ruled out	POST_NEG
+negative	POST_NEG
+resolved	POST_NEG
+not seen	POST_NEG
+is absent	POST_NEG
+is not seen	POST_NEG
+are not seen	POST_NEG
+can be ruled out	POST_NEG
+reports normal	POST_NEG
+report normal	POST_NEG
+is normal	POST_NEG
+is gone	POST_NEG
+stopped	POST_NEG
+but	CONJ_
+after	CONJ_
+whether	CONJ_
+however	CONJ_
+nevertheless	CONJ_
+yet	CONJ_
+though	CONJ_
+although	CONJ_
+still	CONJ_
+aside from	CONJ_
+except	CONJ_
+apart from	CONJ_
+secondary to	CONJ_
+as the cause of	CONJ_
+as the source of	CONJ_
+as the reason of	CONJ_
+as the origin of	CONJ_
+as the cause for	CONJ_
+as the source for	CONJ_
+as the reason for	CONJ_
+as the origin for	CONJ_
+as a cause of	CONJ_
+as a source of	CONJ_
+as a reason of	CONJ_
+as a cause for	CONJ_
+as a source for	CONJ_
+as a reason for	CONJ_
+as a etiology for	CONJ_
+as an cause of	CONJ_
+as an source of	CONJ_
+as an reason of	CONJ_
+as an etiology of	CONJ_
+as an cause for	CONJ_
+as an source for	CONJ_
+as an reason for	CONJ_
+as an etiology for	CONJ_
+as an origin for	CONJ_
+cause of	PREN_INFO
+causes	PREN_INFO
+cause	PREN_INFO
+reason of	PREN_INFO
+reasons of	PREN_INFO
+symptoms of	PREN_INFO
+symptom of	PREN_INFO
+effects of	PREN_INFO
+non	PREN_NEG
+had	PREN_HISTORICAL
+was	PREN_HISTORICAL
+suffered	PREN_HISTORICAL
+afraid of	PREN_HYPOTHETICAL
+etiology of	CONJ_
+etiology for	CONJ_
+trigger event for	CONJ_
+origin of	CONJ_
+origin for	CONJ_
+origins of	CONJ_
+origins for	CONJ_
